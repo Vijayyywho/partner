@@ -1,0 +1,6 @@
+{
+  "name": "KPM Partner App",
+  "description": "A client portal for KPM Digital Solutions where clients can track project progress, manage their contract, and purchase additional services.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
